@@ -375,6 +375,9 @@ section .title::after{
 }
 
 /* contact section styling */
+.contact{
+    background-image:url(background4.png)
+}
 .contact .title::after{
     content: "get in touch";
 }
